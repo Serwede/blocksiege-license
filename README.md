@@ -1,5 +1,9 @@
 # BlockSiege
 
+<p align="center">
+  <img src="images/logo.png" alt="BlockSiege Logo" width="220">
+</p>
+
 BlockSiege is a Paper plugin that turns block-based privates into a real siege system.
 
 Players can place private blocks with different sizes and durability, manage members, protect territory, and use custom siege TNT to attack enemy bases.
