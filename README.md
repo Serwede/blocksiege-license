@@ -1,7 +1,7 @@
 # BlockSiege
 
 <p align="center">
-  <img src="images/logo.png" alt="BlockSiege Logo" width="220">
+  <img src="images/blocksiege-icon-256.png" alt="BlockSiege Logo" width="220">
 </p>
 
 BlockSiege is a Paper plugin that turns block-based privates into a real siege system.
